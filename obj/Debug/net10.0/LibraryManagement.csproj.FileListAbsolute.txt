@@ -1,0 +1,15 @@
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/bin/Debug/net10.0/LibraryManagement
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/bin/Debug/net10.0/LibraryManagement.deps.json
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/bin/Debug/net10.0/LibraryManagement.runtimeconfig.json
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/bin/Debug/net10.0/LibraryManagement.dll
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/bin/Debug/net10.0/LibraryManagement.pdb
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.AssemblyInfo.cs
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.sourcelink.json
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.dll
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/refint/LibraryManagement.dll
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.pdb
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/LibraryManagement.genruntimeconfig.cache
+/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/Debug/net10.0/ref/LibraryManagement.dll
