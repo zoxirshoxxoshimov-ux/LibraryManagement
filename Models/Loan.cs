@@ -1,6 +1,9 @@
 using System;
+using LibraryManagement.Common;
+
 namespace LibraryManagement.Common.Models;
-public class Loan 
+
+public class Loan : IDisplayable
 {
     public int Id { get; }
     public int ItemId { get; }
@@ -15,6 +18,7 @@ public class Loan
         ItemId = itemId;
         MemberId = memberId;
     }
+
     public void Close(int daysKept, decimal fine)
     {
         DaysKept = daysKept;

@@ -1,5 +1,6 @@
 using System;
-namespace  LibraryManagement.Common.Models;
+
+namespace LibraryManagement.Common.Models;
 
 public class Book : LibraryItem
 {
@@ -14,12 +15,14 @@ public class Book : LibraryItem
     {
         if (string.IsNullOrWhiteSpace(author))
             throw new ArgumentException("Muallif bo'sh bo'lmasligi kerak.");
+
         if (pageCount <= 0)
             throw new ArgumentException("Betlar soni musbat bo'lishi kerak.");
 
         Author = author.Trim();
         PageCount = pageCount;
     }
+
     public override string GetSummary()
     {
         return base.GetSummary() + $" | Muallif: {Author} | {PageCount} bet";

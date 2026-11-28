@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {}
   },
@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/dishaaka/.nuget/packages/": {}
+    "/Users/maos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/LibraryManagement.csproj",
+      "projectUniqueName": "/Users/maos/Documents/Projects/study/LibraryManagement/LibraryManagement.csproj",
       "projectName": "LibraryManagement",
-      "projectPath": "/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/LibraryManagement.csproj",
-      "packagesPath": "/Users/dishaaka/.nuget/packages/",
-      "outputPath": "/Users/dishaaka/Desktop/OOP_ClassProgramming/LibraryManagement/obj/",
+      "projectPath": "/Users/maos/Documents/Projects/study/LibraryManagement/LibraryManagement.csproj",
+      "packagesPath": "/Users/maos/.nuget/packages/",
+      "outputPath": "/Users/maos/Documents/Projects/study/LibraryManagement/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/dishaaka/.nuget/NuGet/NuGet.Config"
+        "/Users/maos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -30,7 +30,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -45,11 +44,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.402/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.115/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

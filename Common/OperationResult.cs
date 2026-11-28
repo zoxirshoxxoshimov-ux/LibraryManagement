@@ -7,7 +7,7 @@ public class OperationResult
 
     public OperationResult(bool isSuccess, string message)
     {
-        this.IsSuccess = isSuccess;
-        this.Message = message;
+        IsSuccess = isSuccess;
+        Message = message;
     }
 }

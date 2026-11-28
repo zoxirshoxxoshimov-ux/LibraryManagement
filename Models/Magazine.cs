@@ -1,5 +1,6 @@
 using System;
-namespace  LibraryManagement.Common.Models;
+
+namespace LibraryManagement.Common.Models;
 
 public class Magazine : LibraryItem
 {

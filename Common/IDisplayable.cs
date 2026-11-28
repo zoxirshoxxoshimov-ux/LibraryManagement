@@ -1,4 +1,4 @@
-namespace LigraryManagement.Common1;
+namespace LibraryManagement.Common;
 
 public interface IDisplayable
 {

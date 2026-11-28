@@ -1,5 +1,6 @@
 using System;
-namespace  LibraryManagement.Common.Models;
+
+namespace LibraryManagement.Common.Models;
 
 public class AudioBook : LibraryItem
 {
@@ -15,6 +16,7 @@ public class AudioBook : LibraryItem
     {
         if (string.IsNullOrWhiteSpace(narrator))
             throw new ArgumentException("Ovoz egasi bo'sh bo'lmasligi kerak.");
+
         if (durationMinutes <= 0)
             throw new ArgumentException("Davomiylik musbat bo'lishi kerak.");
 

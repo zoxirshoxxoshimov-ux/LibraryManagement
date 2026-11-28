@@ -1,4 +1,5 @@
 using System;
+
 namespace LibraryManagement.Common.Models;
 
 public class StudentMember : Member
@@ -17,12 +18,11 @@ public class StudentMember : Member
         GroupName = groupName.Trim();
     }
 
-    // Talabaga jarima yarmi
     public override decimal CalculateFine(int lateDays, decimal dailyFine)
     {
-     
         return base.CalculateFine(lateDays, dailyFine) / 2;
     }
+
     public override string GetSummary()
     {
         return base.GetSummary() + $" | Guruh: {GroupName}";

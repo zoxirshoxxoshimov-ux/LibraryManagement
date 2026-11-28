@@ -1,4 +1,5 @@
 using System;
+
 namespace LibraryManagement.Common.Models;
 
 public class TeacherMember : Member
